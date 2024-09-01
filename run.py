@@ -10,7 +10,7 @@ import requests
 import json
 
 def generate_speech():
-    api_key = 'You_OPENAI_API_KEY'
+    api_key = 'YOUR_OPENAI_API_KEY'
     text = text_input.get("1.0", tk.END).strip()
     voice = voice_var.get()
     url = 'https://api.openai.com/v1/audio/speech'
