@@ -40,7 +40,7 @@ This is a simple Python-based GUI application that allows users to generate spee
 
 1. Enter the text you want to convert to speech.
 2. Select the voice from the dropdown menu.
-3. Click "Generate Speech" to create the speech. The output will be saved as `speech.mp3` in the same directory.
+3. Click "Generate Speech" to create the speech. After finished work, you can save the speech_file whre you want.
 
 ## License
 
