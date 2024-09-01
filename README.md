@@ -8,7 +8,7 @@ This is a simple Python-based GUI application that allows users to generate spee
 Listen to the demo:
 
 <audio controls>
-  <source src="demo_speech/demo_speech.mp3" type="audio/mpeg">
+  <source src="https://github.com/VolkanSah/Text-to-Speech-PyGUI-for-Whisper/blob/main/demo_speech/demo_speech.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
