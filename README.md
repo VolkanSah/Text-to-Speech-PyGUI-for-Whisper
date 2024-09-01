@@ -3,7 +3,7 @@
 
 This is a simple Python-based GUI application that allows users to generate speech from text using the OpenAI API. The application provides a user-friendly interface for inputting text and selecting from different voices to create personalized audio output.
 
-![Screenshot](img/cover_screen.png)
+![Screenshot](img/cover_screen2.png)
 
 ### Audio Demo
 The demo audio is available in the `demo_speech` folder.
