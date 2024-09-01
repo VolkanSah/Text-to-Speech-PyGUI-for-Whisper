@@ -4,7 +4,7 @@
 This is a simple Python-based GUI application that allows users to generate speech from text using the OpenAI API. The application provides a user-friendly interface for inputting text and selecting from different voices to create personalized audio output.
 
 ### Audio Demo
-
+[Listen to the demo](https://github.com/VolkanSah/Text-to-Speech-PyGUI-for-Whisper/blob/main/demo_speech/demo_speech.mp3)
 Listen to the demo:
 
 <audio controls>
